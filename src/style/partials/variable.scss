@@ -1,0 +1,8 @@
+
+a,i{
+	transition: all .2s ease; 
+	&:link,&:visited,&:hover,&:active,&:focus{
+		text-decoration: none;
+		outline: none;
+	}
+}
